@@ -13,13 +13,11 @@ While the navigation bar to the left offers categorized dropdowns, we'll go over
 `GETTING STARTED` - A quick-start list of instructions and references for getting into the game as soon as possible.
 
 	- Outcome rolls
-	
 	- Skill Checks and Exertion
-	
 	- Hastened Time and Turn Order
-	
 	- Scenario Resolution
 `CHARACTER CREATION` - A more thorough breakdown of what goes into making a character.
+
 	- Attributes and Proficiency
 	- Creature Type, Build, and Planar Modifiers
 	- Beliefs, including Culture and Compulsion
@@ -38,4 +36,4 @@ ______________________
 
 Example: link to [[Mermaid Diagrams]] under `Features`
 
-Batch: 0001.12-14-24-10:09
+Batch: 0002.12-14-24-10:16
