@@ -78,7 +78,7 @@ Build Concepts: These mechanics are the primary components that connect themes.
 |     | [[IMPROVISED]]               | TRAIT    | EDIT   |             |
 |     | [[STUNNED]]                  | STATUS   | DONE   |             |
 |     | [[SURPRISED]]                | STATUS   | DONE   |             |
-|     | [[CHARACTER CREATION]]       | CHAR     |        |             |
+|     | [[CHARACTER CREATION - old]]       | CHAR     |        |             |
 |     | [[CREATURE TYPE]]            | CREATURE |        |             |
 |     | [[SIZE]]                     | TRAIT    |        |             |
 |     | [[BELIEF]]                   | BELIEF   |        |             |
