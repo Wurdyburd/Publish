@@ -9,10 +9,15 @@ This repository will act as a living document, with instructions for players on 
 While the navigation bar to the left offers categorized dropdowns, we'll go over some basic concepts and descriptions of them here.
 
 `INTRODUCTION` - A brief overview of some of the philosophies behind this game, that separates it from others of a similar tone.
+
 `GETTING STARTED` - A quick-start list of instructions and references for getting into the game as soon as possible.
+
 	- Outcome rolls
+	
 	- Skill Checks and Exertion
+	
 	- Hastened Time and Turn Order
+	
 	- Scenario Resolution
 `CHARACTER CREATION` - A more thorough breakdown of what goes into making a character.
 	- Attributes and Proficiency
@@ -33,4 +38,4 @@ ______________________
 
 Example: link to [[Mermaid Diagrams]] under `Features`
 
-Batch: 0001.12-14-24-10:05
+Batch: 0001.12-14-24-10:09
