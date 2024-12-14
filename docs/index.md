@@ -10,7 +10,7 @@ While the navigation bar to the left offers categorized dropdowns, we'll go over
 
 `INTRODUCTION` - A brief overview of some of the philosophies behind this game, that separates it from others of a similar tone.
 
-`GETTING STARTED` - A quick-start list of instructions and references for getting into the game as soon as possible.
+`[[GETTING STARTED]]` - A quick-start list of instructions and references for getting into the game as soon as possible.
 
 	- Outcome rolls
 	- Skill Checks and Exertion
