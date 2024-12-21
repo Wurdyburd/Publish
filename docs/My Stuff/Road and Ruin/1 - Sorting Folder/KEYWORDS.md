@@ -231,7 +231,7 @@ Build Concepts: These mechanics are the primary components that connect themes.
 |     | [[ACCELERATION]]             | SPELL T  |        |             |
 |     | [[ALTERATION]]               | SPELL T  |        |             |
 |     | [[ANIMATION]]                | SPELL T  |        |             |
-|     | [[CONVERSE]]                 | SPELL T  |        |             |
+|     | [[COMMUNICATION]]                 | SPELL T  |        |             |
 |     | [[DISPLACEMENT]]             | SPELL T  |        |             |
 |     | [[DIVINATION]]               | SPELL T  |        |             |
 |     | [[ENCHANTMENT]]              | SPELL T  |        |             |

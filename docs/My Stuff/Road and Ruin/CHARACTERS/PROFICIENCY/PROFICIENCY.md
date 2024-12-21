@@ -18,6 +18,30 @@ Proficiencies that cannot be effectively guessed at, require information not par
 
 While proficiencies are largely grouped as Physical, Mental, or Social, wherever awareness, intuition, community, building, or knowledge come into play, these proficiencies represent experience enough to apply.
 
+| **[[GEAR PROFICIENCY]]** (19) | **PHYSICAL** (16) | **MENTAL** (15)   | **SOCIAL** (13)  | MAGICAL (14)      |
+| :---------------------------- | :---------------- | :---------------- | :--------------- | ----------------- |
+| **[[SWORD USE]]**             | [[ATHLETICS]]     | [[ATTUNEMENT]]    | [[BINDING]]      | [[COMMUNICATION]] |
+| **[[MACE USE]]**              | [[BALANCE]]       | [[CHANNELING]]    | [[COGNIZANCE]]   | [[SPATIAL]]       |
+| **[[AXE USE]]**               | [[DRIFT]]         | [[CIVILIZATION]]  | [[COMMANDING]]   | [[ENCHANTMENT]]   |
+| **[[GREATBLADE USE]]**        | [[GESTURE]]       | [[CRAFTS]]        | [[DECEPTION]]    | [[REPARATION]]    |
+| **[[GREATHAMMER USE]]**       | [[HARVEST]]       | [[ENTRAPMENT]]    | [[EMPATHY]]      | [[DISPLACEMENT]]  |
+| **[[DAGGER USE]]**            | [[HAULING]]       | [[GRIMOIRE]]      | [[HUSBANDRY]]    | [[ALTERATION]]    |
+| **[[POLEARM USE]]**           | [[MANIPULATION]]  | [[HERBALISM]]     | [[INTIMIDATION]] | [[GLAMOUR]]       |
+| **[[BOW USE]]**               | [[PERCEPTION]]    | [[INSIGHT]]       | [[MEDIATION]]    | [[ILLUSION]]      |
+| **[[EXOTIC WEAPON USE]]**     | [[PITCH]]         | [[INVESTIGATION]] | [[PERFORM]]      | [[WEAVING]]       |
+| **[[THROWN WEAPON USE]]**     | [[RIDE]]          | [[LANGUAGE]]      | [[PERSUASION]]   | [[UNRAVELLING]]   |
+| **[[SLING USE]]**             | [[SOMATOSENSE]]   | [[MEDICINE]]      | [[PRESENCE]]     | [[ANIMATION]]     |
+| **[[IMPROVISED WEAPON USE]]** | [[STEALTH]]       | [[NAVIGATION]]    | [[SEDUCTION]]    | [[DIVINATION]]    |
+| **[[NATURAL WEAPONRY USE]]**  | [[SURVIVAL]]      | [[RESEARCH]]      | [[SPIRITUALISM]] | [[STAGNATION]]    |
+| **[[MARTIAL WEAPONRY]]**      | [[TASTE]]         | [[RITUAL]]        |                  | [[ACCELERATION]]  |
+| **[[SHIELD USE]]**            | [[TEMPO]]         | [[RUNES]]         |                  | AMPLIFICATION     |
+| **[[ARMOR USE]]**             |                   | [[STRATEGY]]      |                  | IGNITION          |
+| **[[WAND USE]]**              |                   |                   |                  | PROPAGATION       |
+| **[[STAFF USE]]**             |                   |                   |                  | PURIFICATION      |
+| **[[TRINKET USE]]**           |                   |                   |                  | CORRUPTION        |
+|                               |                   |                   |                  | INHIBITION        |
+|                               |                   |                   |                  | CREATION          |
+
 | **[[GEAR PROFICIENCY]]** (19) | TYPE                        | **[[DISCIPLINE]]** |
 | :---------------------------- | --------------------------- | :----------------: |
 | **[[SWORD USE]]**             | Weapon                      |                    |

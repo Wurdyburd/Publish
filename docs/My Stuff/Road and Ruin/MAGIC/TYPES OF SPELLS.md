@@ -6,7 +6,7 @@ tags:
 
 | NAME             | DESCRIPTION                                                                |
 | ---------------- | -------------------------------------------------------------------------- |
-| [[CONVERSE]]     | Transmission of speech, concept, image, or memory.                         |
+| [[COMMUNICATION]]     | Transmission of speech, concept, image, or memory.                         |
 | [[SPATIAL]]      | Warping the nature of dimensions of a three-dimensional area.              |
 | [[ENCHANTMENT]]  | Infusing an object or creature with magical effects or abilities.          |
 | [[REPARATION]]   | Repairing the damage done to various forms of material, healing.           |

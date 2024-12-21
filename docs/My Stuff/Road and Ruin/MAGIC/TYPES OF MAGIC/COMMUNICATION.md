@@ -2,6 +2,6 @@
 tags:
   - Magic
   - TypesOfSpells
-  - Converse
+  - Communication
 ---
 Transmission of speech, concept, image, or memory.

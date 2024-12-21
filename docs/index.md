@@ -6,17 +6,21 @@ This repository will act as a living document, with instructions for players on 
 
 ## TABLE OF CONTENTS
 
-While the navigation bar to the left offers categorized dropdowns, we'll go over some basic concepts and descriptions of them here.
+While the navigation bar to the left offers categorized dropdowns, we'll go over some basic concepts and descriptions of them here, in order of importance.
+
+[[DEMO CHARACTERS]]
+
+---
 
 `INTRODUCTION` - A brief overview of some of the philosophies behind this game, that separates it from others of a similar tone.
 
-`[[GETTING STARTED]]` - A quick-start list of instructions and references for getting into the game as soon as possible.
+[[GETTING STARTED]] - A quick-start list of instructions and references for getting into the game as soon as possible.
 
 	- Outcome rolls
 	- Skill Checks and Exertion
 	- Hastened Time and Turn Order
 	- Scenario Resolution
-`CHARACTER CREATION` - A more thorough breakdown of what goes into making a character.
+[[CHARACTER CREATION]] - A more thorough breakdown of what goes into making a character.
 
 	- Attributes and Proficiency
 	- Creature Type, Build, and Planar Modifiers
@@ -28,9 +32,12 @@ While the navigation bar to the left offers categorized dropdowns, we'll go over
 	- Roles, and how they modify encounter balance
 	- Tales, archetypal narratives that establish common ground
 	- The Roundtable Deck, and using generative elements
+
 `EXAMPLE SCENARIOS` - A collection of "choose your own adventure"-style scenarios you can use to test a character and practice your understanding of the rules.
 	- PF2E DEMO: The example scenario from the Pathfinder 2nd Edition rulebook.
 
+[[ENEMIES]] - An easy reference of several different enemy types.
+	- Table
 
 ______________________
 

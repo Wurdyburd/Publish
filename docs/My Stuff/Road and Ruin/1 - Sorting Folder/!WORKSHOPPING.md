@@ -401,5 +401,6 @@ New simplification for tribes.
 - ARMORED: Dense bones, heavy scales, stone skin, or a thick shell increase durability. (-) reaction speed, (-) base movement speed, (+) natural armor, (+) health. (+) Monstrous STR or END, (-2) DEX
 - ARCANE: The creature is partly or even wholly magical. (+/-) sensory, (+/-) durability, (+ -) elemental infusion or resistance and vulnerability, (++) STA/MP/SP borrows one additional attribute.
 - ALCHEMICAL:
-- FERAL:
-- 
+- BESTIAL: The creature has regressed or evolved new animalistic tendencies
+- EPHEMERAL: The creature displaces elegance and grace, and a kind of spiritual and emotional sensitivity, at the cost of physical weakness
+- ANCIENT: The ability to remain competent and skilled for a much longer lifespan, perhaps even immortal

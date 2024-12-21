@@ -25,7 +25,7 @@ Some tag skills that you may get use out of:
 | NAME                 | REASON                                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[MARTIAL WEAPONRY]] | The bread and butter of the battlefield, quick reflexes and confidence in your arms make you a menace to contend with.                                  |
-| [[FORTRESS GUARD]]   | The ability to protect yourself, and the things you care about, can be used to halt any advance, stem any tide.                                         |
+| [[FORTRESS GUARD1]]   | The ability to protect yourself, and the things you care about, can be used to halt any advance, stem any tide.                                         |
 | SQUAD TACTICS        | Surrounded by loyal friends, work together to bring down even the most impossible odds.                                                                 |
 | ARCANE ARSENAL       | Powerful, explosive war magics, enchanted equipment, or even just a trick or two to help you in a pinch.                                                |
 | RED TOWER MEDICINE   | Both basic first aid and engineering the perfect supersoldier can deliver the means to make sure everyone comes back from the battlefield in one piece. |
